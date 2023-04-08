@@ -1,6 +1,6 @@
 ![Logo do readme](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/590cdfce-c1c0-4d13-a246-8b3d0e896c96/dfttrm3-26147dff-4edc-4e40-aa18-29d53d0212ad.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzU5MGNkZmNlLWMxYzAtNGQxMy1hMjQ2LThiM2QwZTg5NmM5NlwvZGZ0dHJtMy0yNjE0N2RmZi00ZWRjLTRlNDAtYWExOC0yOWQ1M2QwMjEyYWQucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.ts0pnhKiySs0xSdNOrfWen6WL74eEPMHa5K1XRAdCQc)
 
-##### 👽 **Quem sou eu**
+### 👽 **Quem sou eu**
 
 Olá! Meu nome é Marcos. Eu sou estudante de Ciência da computação na [Universidade Nove de Julho](https://www.uninove.br/) e  atualmente estou a procura de um estágio.
 
@@ -9,7 +9,7 @@ Neste repositório você encontra-rá aplicações voltadas a Web, Data Science,
 <hr>
 
 
-##### 💻 **Ferramentas e Tecnologias**
+### 💻 **Ferramentas e Tecnologias**
 <code>
 
 </code>
@@ -17,7 +17,7 @@ Neste repositório você encontra-rá aplicações voltadas a Web, Data Science,
 
 <hr>
 
-##### 📲 **Contato**
+### 📲 **Contato**
 
 <code><a href="#"><img width="41px" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/590cdfce-c1c0-4d13-a246-8b3d0e896c96/dftts7e-9bebfe6a-34e2-48a2-8c1a-0cf8668e48d7.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzU5MGNkZmNlLWMxYzAtNGQxMy1hMjQ2LThiM2QwZTg5NmM5NlwvZGZ0dHM3ZS05YmViZmU2YS0zNGUyLTQ4YTItOGMxYS0wY2Y4NjY4ZTQ4ZDcucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.vPJqq1rfbNNft5u7M_0Gb7lxAl9EunxEHLyysZ1iWhU" alt=""></a></code>
 <code><a href="#"><img width="41px" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/590cdfce-c1c0-4d13-a246-8b3d0e896c96/dftts1r-48c93aa7-4450-4534-8211-aa6597d61dec.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzU5MGNkZmNlLWMxYzAtNGQxMy1hMjQ2LThiM2QwZTg5NmM5NlwvZGZ0dHMxci00OGM5M2FhNy00NDUwLTQ1MzQtODIxMS1hYTY1OTdkNjFkZWMucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.GMCDa0iuso9OgL7vnFNW2opacBkkz0LDqGQQPGCOCpU" alt=""></a></code>
