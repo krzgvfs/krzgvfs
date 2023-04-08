@@ -32,23 +32,33 @@ Neste repositório você encontra-rá aplicações voltadas a Web, Data Science,
 <hr>
 
 ### 📲 **Contato**
-![https://www.linkedin.com/in/krzgvfs/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-![https://twitter.com/krzgvfs](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)
-![https://youtube.com/@teoletrix782](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
-![https://discord.gg/gEWbfHca](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
 
+<div>
+  <a href="https://www.linkedin.com/in/krzgvfs/">
+    <img align="center" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://twitter.com/krzgvfs">
+    <img align="center" alt="twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
+  </a>
+  <a href="https://youtube.com/@teoletrix782">
+    <img align="center" alt="youtube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+  </a>
+  <a href="https://discord.gg/gEWbfHca">
+    <img align="center" alt="discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
+  </a>
+</div>
 
 <hr>
 
-![](https://blinkies.neocities.org/b/display/0178-mikuwink2.gif)
-![](https://blinkies.neocities.org/b/display/0142-virusgender.gif)
-![](https://blinkies.neocities.org/b/display/0144-pokeball.gif)
-![](https://blinkies.neocities.org/b/display/0121-blinkiescafe.gif)
-![](https://blinkies.neocities.org/b/display/0068-mainframe.gif)
-![](https://blinkies.neocities.org/b/display/0005-citystars.gif)
-![](https://blinkies.neocities.org/b/display/0056-pirate.gif)
-![](https://blinkies.neocities.org/b/display/0181-confetti.gif)
-![](https://blinkies.neocities.org/b/display/0113-autism.gif)
+![blinkies](https://blinkies.neocities.org/b/display/0178-mikuwink2.gif)
+![blinkies](https://blinkies.neocities.org/b/display/0142-virusgender.gif)
+![blinkies](https://blinkies.neocities.org/b/display/0144-pokeball.gif)
+![blinkies](https://blinkies.neocities.org/b/display/0121-blinkiescafe.gif)
+![blinkies](https://blinkies.neocities.org/b/display/0068-mainframe.gif)
+![blinkies](https://blinkies.neocities.org/b/display/0005-citystars.gif)
+![blinkies](https://blinkies.neocities.org/b/display/0056-pirate.gif)
+![blinkies](https://blinkies.neocities.org/b/display/0181-confetti.gif)
+![blinkies](https://blinkies.neocities.org/b/display/0113-autism.gif)
 
 
 
