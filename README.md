@@ -1,5 +1,3 @@
-![Logo do readme](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/590cdfce-c1c0-4d13-a246-8b3d0e896c96/dfttzti-caa41ce6-3e80-4beb-af21-1626dcc8512d.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzU5MGNkZmNlLWMxYzAtNGQxMy1hMjQ2LThiM2QwZTg5NmM5NlwvZGZ0dHp0aS1jYWE0MWNlNi0zZTgwLTRiZWItYWYyMS0xNjI2ZGNjODUxMmQuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.Dp3BmMwmXNAgjwmK63exmYxwq2Q-xFxUcZlA7zsprug)
-
 ### 👽 **Quem sou eu**
 Olá! Meu nome é Marcos. Eu sou estudante de Ciência da computação na [Universidade Nove de Julho](https://www.uninove.br/) e  atualmente estou a procura de um estágio.
 
