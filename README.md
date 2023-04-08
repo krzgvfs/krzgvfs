@@ -9,8 +9,9 @@ Neste repositório você encontra-rá aplicações voltadas a Web, Data Science,
 
 ### 💻 **Ferramentas e Tecnologias**
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+
 <div style="display: inline_block"><br>
-  <img align="center" alt="" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg">
+  <img align="center" alt="" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg">
   <img align="center" alt="" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg">
   <img align="center" alt="" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
@@ -24,18 +25,18 @@ Neste repositório você encontra-rá aplicações voltadas a Web, Data Science,
   <img align="center" alt="" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
   <img align="center" alt="" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
   <img align="center" alt="" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-  <img align="center" alt="" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg">
+  <img align="center" alt="" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg">
   <img align="center" alt="" width="32" src="">
 </div>
 
 <hr>
 
 ### 📲 **Contato**
-<a><img align="center" alt="" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"></a>
-<a><img align="center" alt="" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg"></a>
-<a><img align="center" alt="" width="32" src=""></a>
-<a><img align="center" alt="" width="32" src=""></a>
-<a><img align="center" alt="" width="32" src=""></a>
+![https://www.linkedin.com/in/krzgvfs/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+![https://twitter.com/krzgvfs](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)
+![https://youtube.com/@teoletrix782](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
+![https://discord.gg/gEWbfHca](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
+
 
 <hr>
 
