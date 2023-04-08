@@ -49,7 +49,6 @@ Neste repositório você encontra-rá aplicações voltadas a Web, Data Science,
 </div>
 
 <hr>
-
 ![blinkies](https://blinkies.neocities.org/b/display/0178-mikuwink2.gif)
 ![blinkies](https://blinkies.neocities.org/b/display/0142-virusgender.gif)
 ![blinkies](https://blinkies.neocities.org/b/display/0144-pokeball.gif)
@@ -63,4 +62,3 @@ Neste repositório você encontra-rá aplicações voltadas a Web, Data Science,
 
 
 
-<img src="" alt="">
