@@ -1,54 +1,121 @@
-### 👽 **Quem sou eu**
-Olá! Meu nome é Marcos. Eu sou estudante de Ciência da computação na [Universidade Nove de Julho](https://www.uninove.br/) e  atualmente estou a procura de um estágio.
+### Hello World, i´m Marcos! 🌍🖖🏾
 
-Neste repositório você encontra-rá aplicações voltadas a Web, Data Science, Automações, Linux e Jogos.
-
-<hr>
-
-### 💻 **Ferramentas e Tecnologias**
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="center" alt="" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg">
-  <img align="center" alt="" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg">
-  <img align="center" alt="" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg">
-  <img align="center" alt="" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
-  <img align="center" alt="" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg">
-  <img align="center" alt="" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg">
-  <img align="center" alt="" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
-  <img align="center" alt="" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"> 
-  <img align="center" alt="" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
-  <img align="center" alt="" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
-  <img align="center" alt="" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
-  <img align="center" alt="" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-  <img align="center" alt="" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg">
-  <img align="center" alt="" width="32" src="">
-</div>
-
-<hr>
-
-### 📲 **Contato**
 
 <div>
-  <a href="https://www.linkedin.com/in/krzgvfs/">
-    <img align="center" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  <a href="#">
+    <span style="padding-right: 10px;">
+      <i class="fa-brands fa-linkedin fa-2xl" style="color: #000000;"></i>
+    </span>
   </a>
-  <a href="https://twitter.com/krzgvfs">
-    <img align="center" alt="twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
+  <a href="#">
+    <span style="padding-right: 10px;">
+      <i class="fa-brands fa-twitter fa-2xl" style="color: #000000;"></i>
+    </span>
   </a>
-  <a href="https://youtube.com/@teoletrix782">
-    <img align="center" alt="youtube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+  <a href="#">
+    <span style="padding-right: 10px;">
+      <i class="fa-brands fa-whatsapp fa-2xl" style="color: #000000;"></i>
+    </span>
   </a>
-  <a href="https://discord.gg/gEWbfHca">
-    <img align="center" alt="discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
+  <a href="#">
+    <span style="padding-right: 10px;">
+      <i class="fa-brands fa-youtube fa-2xl" style="color: #000000;"></i>
+    </span>
+  </a>
+  <a href="#">
+    <span style="padding-right: 10px;">
+      <i class="fa-brands fa-discord fa-2xl" style="color: #000000;"></i>
+    </span>
+  </a>
+  <a href="#">
+    <span style="padding-right: 10px;">
+      <i class="fa-brands fa-instagram fa-2xl" style="color: #000000;"></i>
+    </span>
+  </a>
+  <a href="#">
+    <span style="padding-right: 10px;">
+      <i class="fa-brands fa-stack-overflow fa-2xl" style="color: #000000;"></i>
+    </span>
+  </a>
+  <a href="#">
+    <span style="padding-right: 10px;">
+      <i class="fa-brands fa-medium fa-2xl" style="color: #000000;"></i>
+    </span>
+  </a>
+  <a href="#">
+    <span style="padding-right: 10px;">
+      <i class="fa-brands fa-google fa-2xl" style="color: #000000;"></i>
+    </span>
   </a>
 </div>
 
-<hr>
+***
 
-![blinkies](https://blinkies.neocities.org/b/display/0178-mikuwink2.gif)
+Olá! Meu nome é Marcos. Sou estudante de Ciência da computação na Universidade Nove de Julho e atualmente estou atuando em um estágio de Suporte Técnico de TI.
+
+Sou um amante da Tecnologia e nesse repositório você irá encontrar aplicações voltadas a Web💻, Data Science 📊, Cyber Security 🔐, Linux 🐧 e Jogos 🎮.
+
+
+* 👾 Reposiutório atualizado [siga-me.](https://github.com/krzgvfs).
+* 👽 Assuntos de baixo nível me deixam estusiasmado.
+* 📚 Atualmente estou estudando Estrutura de Dados e Compiladores com C.
+* 🏄🏾‍♀️ Surfando em Automações com Python.
+
+***
+
+### **Ferramentas e Tecnologias**
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+
+<div style="display: inline_block">
+  <span style="padding-right: 10px;">
+    <img align="center" alt="" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  </span>
+  <span style="padding-right: 10px;">
+    <img align="center" alt="" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg">
+  </span>
+  <span style="padding-right: 10px;">
+    <img align="center" alt="" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg">
+  </span>
+  <span style="padding-right: 10px;">
+    <img align="center" alt="" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
+  </span>
+  <span style="padding-right: 10px;">
+    <img align="center" alt="" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg">
+  </span>
+  <span style="padding-right: 10px;">
+    <img align="center" alt="" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
+  </span>
+  <span style="padding-right: 10px;">
+    <img align="center" alt="" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg">
+  </span>
+  <span style="padding-right: 10px;">
+    <img align="center" alt="" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg">
+  </span>
+  <span style="padding-right: 10px;">
+    <img align="center" alt="" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
+  </span>
+  <span style="padding-right: 10px;">
+    <img align="center" alt="" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"> 
+  </span>
+  <span style="padding-right: 10px;">
+    <img align="center" alt="" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
+  </span>
+  <span style="padding-right: 10px;">
+    <img align="center" alt="" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
+  </span>
+  <span style="padding-right: 10px;">
+    <img align="center" alt="" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
+  </span>
+  <span style="padding-right: 10px;">
+    <img align="center" alt="" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+  </span>
+  <span style="padding-right: 10px;">
+    <img align="center" alt="" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg">
+  </span>
+</div>
+
+***
+
 ![blinkies](https://blinkies.neocities.org/b/display/0142-virusgender.gif)
 ![blinkies](https://blinkies.neocities.org/b/display/0144-pokeball.gif)
 ![blinkies](https://blinkies.neocities.org/b/display/0121-blinkiescafe.gif)
@@ -56,8 +123,6 @@ Neste repositório você encontra-rá aplicações voltadas a Web, Data Science,
 ![blinkies](https://blinkies.neocities.org/b/display/0005-citystars.gif)
 ![blinkies](https://blinkies.neocities.org/b/display/0056-pirate.gif)
 ![blinkies](https://blinkies.neocities.org/b/display/0181-confetti.gif)
-![blinkies](https://blinkies.neocities.org/b/display/0113-autism.gif)
-
 
 
 
