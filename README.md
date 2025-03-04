@@ -1,11 +1,11 @@
 # Olá, eu sou Marcos! 👋
 
-👨‍💻 Desenvolvedor Full-stack Junior
-🌍 São Paulo - Brasil
-📚 Aprendendo Django, PowerShell e DevOps
-💼 Trabalhando atualmente em [Helpitech](https://helpitech.com.br)
-🎯 Objetivo: Busco contribuir com a comunidade de software livre e me tornar um desenvolvedor Senior
-📫 Como me encontrar: @krzgvfs em todas redes sociais
+👨‍💻 Desenvolvedor Full-stack Junior  
+🌍 São Paulo - Brasil  
+📚 Aprendendo Django, PowerShell e DevOps  
+💼 Trabalhando atualmente em [Helpitech](https://helpitech.com.br)  
+🎯 Objetivo: Busco contribuir com a comunidade de software livre e me tornar um desenvolvedor Senior  
+📫 Como me encontrar: @krzgvfs em todas redes sociais  
 
 ## 🛠️ Tecnologias e Ferramentas
 
