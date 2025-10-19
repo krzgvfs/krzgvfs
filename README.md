@@ -3,7 +3,6 @@
 **Desenvolvedor fullstack, entusiasta Opensource e criador de conteúdo sobre tecnologia.**
 
 ---
-
 ### Habilidades 🧪
 
 ![Python Skill](svgs/python.svg)
@@ -17,17 +16,13 @@
 ---
 
 ### Sobre ℹ️
-
 Sou movido pela curiosidade, com um interesse especial em Desenvolvimento, Sistemas Operacionais e Automações. Sempre que tenho um tempo, estou trabalhando em algum projeto pessoal ou simplesmente aprendendo algo novo que me fisgou.
-
 - 👨‍💻 **Trabalho:** Desenvolvedor Full-stack Junior [Helpitech](https://helpitech.com.br)
 - 🌍 **Localização:** São Paulo - Brasil
 - 📚 **Estudando:** React Native, VueJS e DevOps
-
 ---
 
 ### Destaques ✨
-
 <details>
   <summary><strong>🖥️ Commo - Sistema de PDV</strong></summary>
   <br>
@@ -49,11 +44,9 @@ Sou movido pela curiosidade, com um interesse especial em Desenvolvimento, Siste
     <li><a href="[https://github.com/krzgvfs/todo-list](https://github.com/krzgvfs/todo-list)"><strong>Ver no GitHub &rarr;</strong></a></li>
   </ul>
 </details>
-
 ---
 
 ### 📫 Contato
-
 <p align="left">
   <a href="https://www.linkedin.com/in/krzgvfs" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="linkedin logo"  />
@@ -72,7 +65,6 @@ Sou movido pela curiosidade, com um interesse especial em Desenvolvimento, Siste
 ---
 
 ### Curiosidades
-
 - Sou aficionado por jogos retrô e hardware antigo.
 - Leitor ávido de `SELECT * FROM books WHERE author='J.R.R. Tolkien'`.
 - Minha distro Linux favorita é o Debian.

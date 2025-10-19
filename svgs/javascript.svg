@@ -1,0 +1,18 @@
+
+<svg width="250" height="85" xmlns="http://www.w3.org/2000/svg">
+    <style>
+        .pixel-font { font-family: 'VT323', 'Press Start 2P', monospace; font-size: 12px; fill: #E5E5E5; }
+        .bar-text { font-family: 'VT323', 'Press Start 2P', monospace; font-size: 10px; fill: #E5E5E5; }
+        .outline { stroke-width: 1; fill: none; stroke-dasharray: 2 2; }
+    </style>
+    <g class="skill-item">
+        <text x="10" y="20" class="pixel-font" font-weight="bold">JAVASCRIPT</text>
+        <text x="10" y="38" class="pixel-font" style="fill:#f4f716;">~/projects/krzgvfs on  main!</text>
+        <text x="10" y="53" class="pixel-font" style="fill:#E5E5E5;">$ uv run js-skill.sh</text>
+        <text x="10" y="73" class="bar-text" font-weight="bold">50%</text>
+
+        <rect x="50" y="62" width="180" height="15" fill="#4E5579" rx="2" ry="2"/>
+        <rect x="50" y="62" width="90.0" height="15" fill="#F7DF1E" rx="2" ry="2"/>
+        <rect x="50" y="62" width="180" height="15" class="outline" stroke="#F7DF1E"/>
+    </g>
+</svg>
