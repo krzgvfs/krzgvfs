@@ -1,0 +1,41 @@
+name: Generate Skills SVG
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'skills.json' # Roda a action apenas quando o skills.json mudar
+  workflow_dispatch: # Permite rodar manualmente pela interface do GitHub
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Install dependencies
+        run: pip install pyarmor
+
+      - name: Run obfuscated script to generate SVGs
+        run: python dist/generate_svgs_obfuscate.py
+
+      - name: Commit and push generated SVGs
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add svgs/
+          # Apenas commita se houver mudanças nos arquivos gerados
+          if ! git diff --staged --quiet; then
+            git commit -m "🤖 Chore: Atualiza SVGs das skills"
+            git push
+          else
+            echo "Nenhuma mudança nos SVGs para commitar."
+          fi

@@ -1,0 +1,44 @@
+[
+  {
+    "name": "PYTHON",
+    "percentage": 75,
+    "color": "#00FF00",
+    "command": "python-skill.sh"
+  },
+  {
+    "name": "DJANGO",
+    "percentage": 55,
+    "color": "#44B78B",
+    "command": "django-skill.sh"
+  },
+  {
+    "name": "DOCKER",
+    "percentage": 20,
+    "color": "#84d9d4",
+    "command": "docker-skill.sh"
+  },
+  {
+    "name": "JAVASCRIPT",
+    "percentage": 50,
+    "color": "#F7DF1E",
+    "command": "js-skill.sh"
+  },
+  {
+    "name": "TYPESCRIPT",
+    "percentage": 45,
+    "color": "#3178C6",
+    "command": "ts-skill.sh"
+  },
+  {
+    "name": "REACTNATIVE",
+    "percentage": 15,
+    "color": "#61DAFB",
+    "command": "react-skill.sh"
+  },
+  {
+    "name": "LINUX",
+    "percentage": 90,
+    "color": "#FCC624",
+    "command": "linux-skill.sh"
+  }
+]
