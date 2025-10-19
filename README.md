@@ -1,5 +1,11 @@
 # Olá, eu sou Marcos!👋
 
+<p align="start">
+  <a href="https://translate.google.com/translate?sl=pt&tl=en&u=https://github.com/krzgvfs/krzgvfs/blob/main/README.md"><img alt="EN" src="https://img.shields.io/badge/Read%20in-English-blue?style=for-the-badge"></a>
+  <a href="https://translate.google.com/translate?sl=pt&tl=es&u=https://github.com/krzgvfs/krzgvfs/blob/main/README.md"><img alt="ES" src="https://img.shields.io/badge/Leer%20en-Espa%C3%B1ol-orange?style=for-the-badge"></a>
+  <a href="https://translate.google.com/translate?sl=pt&tl=fr&u=https://github.com/krzgvfs/krzgvfs/blob/main/README.md"><img alt="FR" src="https://img.shields.io/badge/Lire%20en-Fran%C3%A7ais-lightgrey?style=for-the-badge"></a>
+</p>
+
 **Desenvolvedor fullstack, entusiasta Opensource e criador de conteúdo sobre tecnologia. 🔗[Clique aqui](https://www.youtube.com/@krzgvfs)**
 
 ---
@@ -31,7 +37,7 @@ Sou movido pela curiosidade, com um interesse especial em Desenvolvimento, Siste
     <li><strong>Tecnologias:</strong> Python, Django, Vue3, Tailwind, Postgresql  </li>
     <li><strong>Status:</strong> Em desenvolvimento</li>
     <li>
-      <a href="https://github.com/krzgvfs/todo-list">Ver no GitHub</a>
+      <a href="https://github.com/krzgvfs/todo-list">Ver no GitHub</a>  🔗
     </li>
   </ul>
 </details>
@@ -44,7 +50,7 @@ Sou movido pela curiosidade, com um interesse especial em Desenvolvimento, Siste
     <li><strong>Tecnologias:</strong> Typescript, React Native</li>
     <li><strong>Status:</strong> Em desenvolvimento</li>
     <li>
-      <a href="https://github.com/krzgvfs/todo-list">Ver no GitHub</a>
+      <a href="https://github.com/krzgvfs/todo-list">Ver no GitHub</a>  🔗
     </li>
   </ul>
 </details>
@@ -53,30 +59,36 @@ Sou movido pela curiosidade, com um interesse especial em Desenvolvimento, Siste
 
 ### 📫 Contato
 <p align="left">
-  <a href="https://www.linkedin.com/in/krzgvfs" target="_blank">
+  <a href="https://www.linkedin.com/in/marcos-andr%C3%A9-b5966a284/">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="linkedin logo"  />
   </a>
   <a href="mailto:krzgvfs@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="gmail logo" />
+    <img src="https://skillicons.dev/icons?i=gmail" height="35" alt="gmail logo" />
   </a>
-  <a href="https://twitter.com/krzgvfs" target="_blank">
+  <a href="https://x.com/MarcosAndr1316/likes">
     <img src="https://skillicons.dev/icons?i=twitter" height="40" alt="twitter logo" />
   </a>
-  <a href="https://github.com/krzgvfs" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo" />
+  <a href="https://www.instagram.com/krzgvfs">
+    <img src="https://skillicons.dev/icons?i=instagram" height="40" alt="github logo" />
   </a>
 </p>
 
 ---
 
-### Curiosidades
-- Sou aficionado por jogos retrô e hardware antigo.
+### Curiosidades 🥸
+- Sou aficionado por jogos retrô e emulação.
 - Leitor ávido de `SELECT * FROM books WHERE author='J.R.R. Tolkien'`.
-- Minha distro Linux favorita é o Debian.
+- Minha top 3 GNU/Linux é Arch, Zorin e Debian.
+
+<p align="center">
+  <img src="https://media.tenor.com/-I16LaYdePIAAAAj/blinkies-blinkie.gif" alt="rsrs">
+</p>
 
 
-<img src="https://blinkiecollecti0n.neocities.org/images/pacman.gif" alt="Pac-Man GIF">
-<img src="https://blinkies.neocities.org/b/display/0028-computer.gif" alt="Computer GIF">
-<img src="https://blinkies.neocities.org/b/display/0144-pokeball.gif" alt="Pokeball GIF">
-<img src="https://blinkies.neocities.org/b/display/0181-confetti.gif" alt="Confetti GIF">
-<img src="https://blinkies.neocities.org/b/display/0005-citystars.gif" alt="City Stars GIF">
+<p align="start">
+  <img src="https://blinkiecollecti0n.neocities.org/images/pacman.gif" alt="Pac-Man GIF">
+  <img src="https://blinkies.neocities.org/b/display/0028-computer.gif" alt="Computer GIF">
+  <img src="https://blinkies.neocities.org/b/display/0144-pokeball.gif" alt="Pokeball GIF">
+  <img src="https://blinkies.neocities.org/b/display/0181-confetti.gif" alt="Confetti GIF">
+  <img src="https://blinkies.neocities.org/b/display/0005-citystars.gif" alt="City Stars GIF">
+<p align="start">
