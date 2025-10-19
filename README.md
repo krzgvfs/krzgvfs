@@ -77,8 +77,9 @@ Sou movido pela curiosidade, com um interesse especial em Desenvolvimento, Siste
 - Leitor ávido de `SELECT * FROM books WHERE author='J.R.R. Tolkien'`.
 - Minha distro Linux favorita é o Debian.
 
+
 <img src="https://blinkiecollecti0n.neocities.org/images/pacman.gif" alt="Pac-Man GIF">
-<img src="https://blinkies.neocities.org/b/display/0028-computer.gif" alt="Pac-Man GIF">
-<img src="https://blinkies.neocities.org/b/display/0144-pokeball.gif" alt="Pac-Man GIF">
-<img src="https://blinkies.neocities.org/b/display/0181-confetti.gif" alt="Pac-Man GIF">
-<img src="https://blinkies.neocities.org/b/display/0005-citystars.gif" alt="Pac-Man GIF">
+<img src="https://blinkies.neocities.org/b/display/0028-computer.gif" alt="Computer GIF">
+<img src="https://blinkies.neocities.org/b/display/0144-pokeball.gif" alt="Pokeball GIF">
+<img src="https://blinkies.neocities.org/b/display/0181-confetti.gif" alt="Confetti GIF">
+<img src="https://blinkies.neocities.org/b/display/0005-citystars.gif" alt="City Stars GIF">
