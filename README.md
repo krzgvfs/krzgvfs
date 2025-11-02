@@ -24,6 +24,7 @@
 ![Typescript Skill](svgs/typescript.svg)
 ![Reactnative Skill](svgs/reactnative.svg)
 ![Linux Skill](svgs/linux.svg)
+![Powershell Skill](svgs/powershell.svg)
 
 ---
 
@@ -85,6 +86,6 @@ Sou movido pela curiosidade, com um interesse especial em Desenvolvimento, Siste
 ### Curiosidades 🥸
 - Sou aficionado por jogos retrô e emulação.
 - Leitor ávido de `SELECT * FROM books WHERE author='J.R.R. Tolkien'`.
-- Minha top 3 GNU/Linux é Arch, Zorin e Debian.
+- Meu top 3 GNU/Linux é Zorin, Arch e Debian.
 <img src="https://media.tenor.com/IzUb1ptN7CQAAAAj/mario-dance.gif" height="65" alt="rsrs">
 

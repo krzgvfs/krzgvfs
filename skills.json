@@ -40,5 +40,11 @@
     "percentage": 90,
     "color": "#FCC624",
     "command": "linux-skill.sh"
+  },
+  {
+    "name": "POWERSHELL",
+    "percentage": 60,
+    "color": "#00BCFF",
+    "command": "powershell-skill.sh"
   }
 ]
